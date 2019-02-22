@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2244397ff54eb5a42bdf98ee6202aa5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 341799117257642238, guid: 8498849692f225b428ee382e224ef892, type: 3}
+  - monster: {fileID: 6778598179707341377, guid: dfa0e7cdaa87a314bbfc3917ad0d1d76,
+      type: 3}
+  - wave: {fileID: 5489927330745169120, guid: 4555208e20776254da3b14037a66732f, type: 3}
+  - score: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  - boss: {fileID: 8947782244496748346, guid: def60c18f98c5ae45963b7c861038f9f, type: 3}
+  - panel: {instanceID: 0}
+  - panelScoreText: {instanceID: 0}
+  - highScoreText: {instanceID: 0}
+  - pausePanel: {instanceID: 0}
+  - pauseCurrentScore: {instanceID: 0}
+  - pauseHighScore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
